@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 144.0.7559.59,,,22-01-2026 15:22:32,22-01-2026 15:22:46,14.165s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 144.0.7559.59,,,22-01-2026 15:22:33,22-01-2026 15:22:46,13.252s,PASSED
+"openBrowser("""")",Chrome 144.0.7559.59,,,22-01-2026 15:22:33,22-01-2026 15:22:36,2.953s,PASSED
+"navigateToUrl(""https://portal.wisewires.com"")",Chrome 144.0.7559.59,,,22-01-2026 15:22:36,22-01-2026 15:22:37,0.621s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Username_userId""), ""kn240805"")",Chrome 144.0.7559.59,,,22-01-2026 15:22:37,22-01-2026 15:22:38,1.150s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Password_pw""), ""3s5hBBj5xG9TQwJXtrsGYg=="")",Chrome 144.0.7559.59,,,22-01-2026 15:22:38,22-01-2026 15:22:38,0.442s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Password_btn-login""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:38,22-01-2026 15:22:40,1.924s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:40,22-01-2026 15:22:44,3.321s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2_1""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:44,22-01-2026 15:22:44,0.452s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2_2""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:44,22-01-2026 15:22:44,0.457s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2_3""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:44,22-01-2026 15:22:45,0.446s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2_4""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:45,22-01-2026 15:22:45,0.464s,PASSED
+"click(findTestObject(""Object Repository/Page_/li__tab-link col-sm-2_5""))",Chrome 144.0.7559.59,,,22-01-2026 15:22:45,22-01-2026 15:22:46,0.564s,PASSED

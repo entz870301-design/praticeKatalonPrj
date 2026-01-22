@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="13.882" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="13.882" skipped="0" timestamp="2026-01-22T06:22:32.525Z" hostname="김인환 - 192.168.0.179" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\\uAE40\uC778\uD658\\git\\praticeKatalonPrj\\Reports\\20260122_152228\\New Test Suite\\20260122_152228"/>
+         <property name="logFiles" value="C:\\Users\\\uAE40\uC778\uD658\\git\\praticeKatalonPrj\\Reports\\20260122_152228\\New Test Suite\\20260122_152228\\console0.log, C:\\Users\\\uAE40\uC778\uD658\\git\\praticeKatalonPrj\\Reports\\20260122_152228\\New Test Suite\\20260122_152228\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="김인환 - 192.168.0.179"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.4.0.0"/>
+         <property name="browser" value="Chrome 144.0.7559.59"/>
+         <property name="userFullName" value="Qgames Inc"/>
+         <property name="hostAddress" value="192.168.0.179"/>
+         <property name="sessionId" value="3e7c586f734dd9446e9f43a2d86a2026"/>
+         <property name="projectName" value="praticeKatalonPrj"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="13.252" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[22-01-2026T15:22:33 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+22-01-2026T15:22:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-01-2026T15:22:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-01-2026T15:22:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-01-2026T15:22:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-01-2026T15:22:36 - [TEST_STEP][PASSED] - navigateToUrl("https://portal.wisewires.com"): Navigate to 'https://portal.wisewires.com' successfully
+
+22-01-2026T15:22:37 - [MESSAGE][PASSED] - Navigate to 'https://portal.wisewires.com' successfully
+
+22-01-2026T15:22:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Username_userId"), "kn240805"): Text 'kn240805' is set on object 'Object Repository/Page_/input_Username_userId'
+
+22-01-2026T15:22:38 - [MESSAGE][PASSED] - Text 'kn240805' is set on object 'Object Repository/Page_/input_Username_userId'
+
+22-01-2026T15:22:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_/input_Password_pw"), "3s5hBBj5xG9TQwJXtrsGYg=="): Text ****** has been set on object 'Object Repository/Page_/input_Password_pw'
+
+22-01-2026T15:22:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_/input_Password_pw'
+
+22-01-2026T15:22:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Password_btn-login")): Object: 'Object Repository/Page_/button_Password_btn-login' is clicked on
+
+22-01-2026T15:22:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Password_btn-login' is clicked on
+
+22-01-2026T15:22:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2")): Object: 'Object Repository/Page_/li__tab-link col-sm-2' is clicked on
+
+22-01-2026T15:22:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2' is clicked on
+
+22-01-2026T15:22:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_1")): Object: 'Object Repository/Page_/li__tab-link col-sm-2_1' is clicked on
+
+22-01-2026T15:22:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2_1' is clicked on
+
+22-01-2026T15:22:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_2")): Object: 'Object Repository/Page_/li__tab-link col-sm-2_2' is clicked on
+
+22-01-2026T15:22:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2_2' is clicked on
+
+22-01-2026T15:22:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_3")): Object: 'Object Repository/Page_/li__tab-link col-sm-2_3' is clicked on
+
+22-01-2026T15:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2_3' is clicked on
+
+22-01-2026T15:22:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_4")): Object: 'Object Repository/Page_/li__tab-link col-sm-2_4' is clicked on
+
+22-01-2026T15:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2_4' is clicked on
+
+22-01-2026T15:22:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_5")): Object: 'Object Repository/Page_/li__tab-link col-sm-2_5' is clicked on
+
+22-01-2026T15:22:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/li__tab-link col-sm-2_5' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-01-2026T15:22:32 - [TEST_SUITE][PASSED] - New Test Suite: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
