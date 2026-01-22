@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_65_sds-comps-text sds-comps-text-type-_cee30d</name>
+   <tag></tag>
+   <elementGuidId>fbf7fa50-8eeb-4dd9-85b7-5364b4a761db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fdr-7d1cb9ce115e4d1c98f169e322b8ee65']/div/div/div/div/div/div/a/div/div/div[2]/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sds-comps-horizontal-layout.sds-comps-inline-layout.fender-ui_3433cb3b > span.sds-comps-text.sds-comps-text-type-body2.sds-comps-text-weight-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;www.knotz.co.kr&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3a523a1-c078-471f-a724-45d12101ad0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sds-comps-text sds-comps-text-type-body2 sds-comps-text-weight-sm</value>
+      <webElementGuid>e7db50a0-6c90-4065-8295-56a9cec45d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>www.knotz.co.kr</value>
+      <webElementGuid>1d723759-d134-49de-9f31-5db3154d22a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fdr-7d1cb9ce115e4d1c98f169e322b8ee65&quot;)/div[@class=&quot;xO4uAj8Zk__cJ7KE3VSh desktop_mode api_subject_bx fds-root-overflow-reset&quot;]/div[@class=&quot;sds-comps-vertical-layout sds-comps-full-layout fds-web-root&quot;]/div[@class=&quot;sds-comps-vertical-layout sds-comps-full-layout fds-web-list-root fds-web-list-vert-padding&quot;]/div[@class=&quot;sds-comps-vertical-layout sds-comps-full-layout fds-web-doc-root u7m3J4vzWxO7iY8XLfYR fds-web-normal-doc-root&quot;]/div[@class=&quot;sds-comps-vertical-layout sds-comps-full-layout cd1rAwZ_cJyjmoNwHHzM&quot;]/div[@class=&quot;sds-comps-horizontal-layout sds-comps-full-layout MjAqPA22QJ_GqBQ2a_Rf&quot;]/a[@class=&quot;fender-ui_228e3bd1 XCoe8pmPdXBrcS2sZqSp&quot;]/div[@class=&quot;sds-comps-horizontal-layout sds-comps-full-layout sds-comps-profile type-web size-lg title-color-g10&quot;]/div[@class=&quot;sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-profile-source&quot;]/div[@class=&quot;sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-profile-info-subtexts&quot;]/span[@class=&quot;sds-comps-text sds-comps-text-type-body2 sds-comps-text-weight-sm sds-comps-profile-info-subtext&quot;]/div[@class=&quot;sds-comps-horizontal-layout sds-comps-inline-layout fender-ui_3433cb3b&quot;]/span[@class=&quot;sds-comps-text sds-comps-text-type-body2 sds-comps-text-weight-sm&quot;]</value>
+      <webElementGuid>b4f021fc-fa53-467e-b650-4c2e6762bbc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fdr-7d1cb9ce115e4d1c98f169e322b8ee65']/div/div/div/div/div/div/a/div/div/div[2]/span/div/span</value>
+      <webElementGuid>81641296-f99a-4ab2-a1cf-ead218f30b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='영업 중'])[16]/following::span[3]</value>
+      <webElementGuid>d78b6dc8-c53e-4802-9b49-deb36172477b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep에 바로가기'])[1]/preceding::span[1]</value>
+      <webElementGuid>a59fc0c3-56fe-4209-96da-9bb44cfffceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KNOTZ'])[1]/preceding::span[1]</value>
+      <webElementGuid>6f30eaec-f242-45f8-9c1c-6d4c914d81f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='www.knotz.co.kr']/parent::*</value>
+      <webElementGuid>765aad0b-b672-4787-a88f-3a6174d54994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>864ecc6b-f00d-427e-ba7e-232cf299aba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'www.knotz.co.kr' or . = 'www.knotz.co.kr')]</value>
+      <webElementGuid>26dfcb34-ef20-4fd0-93ac-1441ac5bb850</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
