@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Object Repository/Page_/li__tab-link col-sm-2_5'))
 
 WebUI.delay(2)
 
+WebUI.acceptAlert()
+
